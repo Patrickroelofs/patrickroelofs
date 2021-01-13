@@ -1,4 +1,5 @@
-### Hi there, i'm patrick 👋
-**Check out my website**: [patrickroelofs.com](https://patrickroelofs.com)
+### Hi there, i'm Patrick 👋
+I create stuff.
 
-**Contact me**: [contact@patrickroelofs.com](mailto:contact@patrickroelofs.com)
+🖥️ [patrickroelofs.com](https://patrickroelofs.com) <br>
+📧 [contact@patrickroelofs.com](mailto:contact@patrickroelofs.com)
