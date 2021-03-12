@@ -4,4 +4,5 @@ I create stuff.
 🖥️ [patrickroelofs.com](https://patrickroelofs.com) <br>
 📧 [contact@patrickroelofs.com](mailto:contact@patrickroelofs.com)
 
-[![Patrick's Github Stats](https://github-readme-stats.vercel.app/api?username=Patrickroelofs&count_private=true&show_icons=true)]()
+[![Patrick's Github Stats](https://github-readme-stats.vercel.app/api?username=Patrickroelofs&count_private=true&show_icons=true)](https://github.com/Patrickroelofs)
+[![Patrick's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickroelofs&layout=compact)](https://github.com/Patrickroelofs)
