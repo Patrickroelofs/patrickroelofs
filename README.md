@@ -1,5 +1,5 @@
 ### Hi there, i'm Patrick 👋
-I create stuff.
+I create stuff, i'm currently working on a sideproject @[ZeroToFit App](https://github.com/orgs/ZeroToFit/)
 
 🖥️ [patrickroelofs.com](https://patrickroelofs.com) <br>
 📧 [contact@patrickroelofs.com](mailto:contact@patrickroelofs.com)
