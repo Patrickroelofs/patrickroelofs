@@ -5,6 +5,4 @@ I create stuff, I'm currently studying Web Development at HAN University of appl
 📧 [contact@patrickroelofs.com](mailto:contact@patrickroelofs.com)
 
 ## 🚧 Current Side Projects
-- [Tracktr](https://tracktr.app)
-- [Dev Inspiration](https://github.com/Patrickroelofs/devInspiration) <br /><br />
-
+None! Currently working on my graduation project!
