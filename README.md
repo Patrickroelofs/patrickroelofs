@@ -6,4 +6,4 @@ I create stuff at [Iquality](https://www.iquality.nl/) as a front end developer.
 
 ## 👷‍♂️ Projects
 - [Payload EXIF](https://github.com/Patrickroelofs/payload-exif)
-- [Payload Folders Tree View](https://github.com/Patrickroelofs/payload-folders-tree-view)
+- [Payload Folder Tree View](https://github.com/Patrickroelofs/payload-folders-tree-view)
